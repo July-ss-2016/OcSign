@@ -1,0 +1,6 @@
+name: OcSign
+main: vip.ourcraft.mcserverplugins.ocsign.OcSign
+author: July_ss
+version: 1.0.0
+commands:
+  ocsign:

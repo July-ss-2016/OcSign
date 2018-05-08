@@ -1,0 +1,19 @@
+kits:
+  '1':
+    online_min: 20
+    money: 500
+    points: 0
+    kits:
+    - k_d1
+  '1':
+    money: 500
+    points: 0
+    kits:
+    - k_d1
+  '1':
+    money: 500
+    points: 0
+    kits:
+    - k_d1    
+    
+
